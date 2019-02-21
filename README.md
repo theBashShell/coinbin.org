@@ -1,4 +1,6 @@
 # ₿ Coinhub.org
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2Fcoinbin.org.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2Fcoinbin.org?ref=badge_shield)
+
 
 ### The Human–Friendly API Service for Crypto Currency Information.
 
@@ -86,3 +88,7 @@ Consider [tipping us](http://coinbin.org/thanks)! We have many wallets.
 ## More Resources
 
 - [Awesome Crypto Currency Tools & Algorithms (Guide)](https://github.com/kennethreitz/awesome-coins)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2Fcoinbin.org.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2Fcoinbin.org?ref=badge_large)
